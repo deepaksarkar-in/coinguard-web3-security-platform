@@ -20,14 +20,13 @@ React, Vite, Lottie, Next.js, TypeScript, TailwindCSS, Node.js, Express, Moralis
 ## Screenshots
 
 
-![Home](screenshots/home.png)
+![Screenshot 1](20260517_054116_full.png)
 
 
 
 
-![Token Scan](screenshots/token-scan.png)
+![Screenshot 2](Screenshot_20261121-141139.png)
 
 
 
-
-![Product menu](screenshots/product-menu.png)
+[Watch demo video](screen-20261121-140118~2.mp4)
